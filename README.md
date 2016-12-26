@@ -1,7 +1,7 @@
 Gist Downloader
 ===============
 
-Coursera downloader is a python script that automate the download process of coursera courses,It downloads the lectures by the course week link.
+Gist downloader is a python script that automate the download process of Gist codes,It downloads the gists by gist profile.
 
 ### Configuration
 
